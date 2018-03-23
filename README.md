@@ -1,10 +1,9 @@
 ## JS_Airport_challenge
 
-# We going to wrinting Airport_challenge in JavaScript language
+# We going to writing Airport_challenge in JavaScript language
 
 ```Users Stories
 
-```
 As an air traffic controller
 So I can get passengers to a destination
 I want to instruct a plane to land at an airport
@@ -33,3 +32,5 @@ I want to prevent landing when the airport is full
 As the system designer
 So that the software can be used for many different airports
 I would like a default airport capacity that can be overridden as appropriate
+
+```
