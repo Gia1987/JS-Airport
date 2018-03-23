@@ -1,6 +1,6 @@
 ## JS_Airport_challenge
 
-# We going to writing Airport_challenge in JavaScript language
+# We're going to writing Airport_challenge in JavaScript language
 
 ```Users Stories
 
